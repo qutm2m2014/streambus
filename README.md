@@ -1,10 +1,10 @@
-M2M Streamer
+StreamBUS
 ================
 
-Streamer allows businesses to use M2M technology to gain business insight.
-It is being developed as part of the Telstra M2M University Challenge.
+This project aims to provide on-demand graph based stream maniuplation to help gain insight from streaming data.
 
-This is project draws inspiration from large scale systems such as:
+
+It draws inspiration from systems designed for larger scale 'big-data' projects such as:
 
 	- Apache Storm (Distributed Real-Time Computation System)
 	- Spark (Splunk)
@@ -12,5 +12,6 @@ This is project draws inspiration from large scale systems such as:
 
 and uses open source technologies:
 
+	- Python
 	- ZeroMQ
 	- MQTT
